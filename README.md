@@ -100,6 +100,6 @@ Bachelor's degree in Software Engineering.
 - Email: didika.2017@mail.ru
 - Telegram: [@Didika007](https://t.me/Didika007)
 - LinkedIn: [Denis Popov](https://www.linkedin.com/in/денис-попов-12a82844a/)
-- GitHub: [didik2002boss-star](https://github.com/didik2002boss-star)
+- GitHub: [denispopov-tech](https://github.com/denispopov-tech)
 
 **Open to Junior Manual QA Engineer opportunities — fully remote.**
