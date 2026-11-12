@@ -1,5 +1,5 @@
 # Test Design
 
-This folder contains examples of test design techniques:
-- Equivalence Partitioning
-- Boundary Value Analysis
+This section is under preparation. Planned examples cover equivalence partitioning and boundary value analysis for booking validation.
+
+[Back to portfolio](../README.md)
